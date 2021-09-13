@@ -1,0 +1,33 @@
+﻿<Window x:Class="Frontend.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Frontend"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600.82">
+    <Grid Margin="0,0,2,0" RenderTransformOrigin="0.506,0.499">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="tb_Hola" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" Margin="246,10,233,0" Height="27" Width="112">Hola a todos</TextBlock>
+        <TextBlock x:Name="tbSuma" TextAlignment="Justify" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Margin="162,157,354,237" Height="25" Width="75">Suma</TextBlock>
+        <TextBlock x:Name="tbResta" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Margin="162,205,354,189" Height="25" Width="75">Resta</TextBlock>
+        <TextBlock x:Name="tbMultiplicacion" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Margin="162,249,246,148" Height="25" Width="183">Multiplicacion</TextBlock>
+        <TextBlock x:Name="tbDivision" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Margin="162,285,279,109" Height="25" Width="150">Division</TextBlock>
+
+        <Button x:Name="Calcular" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="90,0,339,32" Height="22" Width="162" Click="CalcularClick" >Calcular</Button>
+        <Button x:Name="CalcularTodo" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="334,0,107,32" Height="22" Width="150" Click="CalcularTodoClick">Calcular todo</Button>
+      
+        <TextBox x:Name="VariableX" HorizontalAlignment="Left" Height="23" Margin="132,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="VariableY" HorizontalAlignment="Left" Height="23" Margin="364,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="ResultadoSuma" HorizontalAlignment="Left" Height="23" Margin="320,157,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="ResultadoResta" HorizontalAlignment="Left" Height="23" Margin="320,204,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="ResultadoMultiplicacion" HorizontalAlignment="Left" Height="23" Margin="320,248,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="ResultadoDivision" HorizontalAlignment="Left" Height="23" Margin="320,287,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\chico\source\repos\Remoting\Frontend\bin\Debug\Frontend.exe
+C:\Users\chico\source\repos\Remoting\Frontend\bin\Debug\Frontend.pdb
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\MainWindow.g.cs
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\App.g.cs
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\Frontend_MarkupCompile.cache
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\Frontend_MarkupCompile.lref
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\MainWindow.baml
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\Frontend.g.resources
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\Frontend.Properties.Resources.resources
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\Frontend.csproj.GenerateResource.cache
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\Frontend.exe
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\Frontend.pdb
+C:\Users\chico\source\repos\Remoting\Frontend\bin\Debug\RemoteClass.dll
+C:\Users\chico\source\repos\Remoting\Frontend\bin\Debug\RemoteClass.pdb
+C:\Users\chico\source\repos\Remoting\Frontend\obj\Debug\Frontend.csproj.CopyComplete

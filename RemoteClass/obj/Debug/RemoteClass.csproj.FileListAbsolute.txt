@@ -1,0 +1,5 @@
+C:\Users\chico\source\repos\Remoting\RemoteClass\bin\Debug\RemoteClass.dll
+C:\Users\chico\source\repos\Remoting\RemoteClass\bin\Debug\RemoteClass.pdb
+C:\Users\chico\source\repos\Remoting\RemoteClass\obj\Debug\RemoteClass.csproj.CoreCompileInputs.cache
+C:\Users\chico\source\repos\Remoting\RemoteClass\obj\Debug\RemoteClass.dll
+C:\Users\chico\source\repos\Remoting\RemoteClass\obj\Debug\RemoteClass.pdb

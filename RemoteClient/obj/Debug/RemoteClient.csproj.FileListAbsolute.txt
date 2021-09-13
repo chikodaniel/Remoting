@@ -1,0 +1,8 @@
+C:\Users\chico\source\repos\Remoting\RemoteClient\bin\Debug\RemoteClient.exe
+C:\Users\chico\source\repos\Remoting\RemoteClient\bin\Debug\RemoteClient.pdb
+C:\Users\chico\source\repos\Remoting\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+C:\Users\chico\source\repos\Remoting\RemoteClient\obj\Debug\RemoteClient.exe
+C:\Users\chico\source\repos\Remoting\RemoteClient\obj\Debug\RemoteClient.pdb
+C:\Users\chico\source\repos\Remoting\RemoteClient\bin\Debug\RemoteClass.dll
+C:\Users\chico\source\repos\Remoting\RemoteClient\bin\Debug\RemoteClass.pdb
+C:\Users\chico\source\repos\Remoting\RemoteClient\obj\Debug\RemoteClient.csproj.CopyComplete
